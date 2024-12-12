@@ -1,6 +1,6 @@
 ```
-git clone url
-cd microbloglite\microbloglite-backend
+git clone https://github.com/craigmckeachie/microbloglite
+cd microbloglite/microbloglite-backend
 npm install
 cp .env.example .env
 cd ../..
